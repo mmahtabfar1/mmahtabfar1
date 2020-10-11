@@ -1,6 +1,6 @@
 ![line](https://github.com/mmahtabfar1/mmahtabfar1/blob/main/line.gif)
 ### Hi there! 👋
-
+My name is Mahan Mahtabfar. I am a junior at the University of Florida (graduating May 2022) and I am majoring in Computer Science.
 <!--
 **mmahtabfar1/mmahtabfar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
