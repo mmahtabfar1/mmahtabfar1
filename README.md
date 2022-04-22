@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 - 🎓 I am also working as a Teaching Assistant at the University of Florida where I help to teach students programming fundamentals in Java.
 -->
-- 🔭 I’m currently working as a Research Assistant at the University of Florida where I am writing software to help with the analysis of RNA sequencing data.
-
-### Work 🔋
-I will be applying to summer 2022 internships. I am interested in a position as a software engineer intern.
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmahtabfar1&theme=cobalt&count_private=true&show_icons=true" alt="mmahtabfar1's GitHub Stats" />
