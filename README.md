@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 
 - 🎓 I am also working as a Teaching Assistant at the University of Florida where I help to teach students programming fundamentals in Java.
 -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmahtabfar1&theme=cobalt&count_private=true&show_icons=true" alt="mmahtabfar1's GitHub Stats" />
-</a>
